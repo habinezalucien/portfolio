@@ -1,0 +1,350 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+a{
+	text-decoration: none;
+
+}
+.ho{
+position: absolute;
+width: 72px;
+height: 30px;
+left: 536px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFA800;
+}
+.ho2{
+position: absolute;
+width: 72px;
+height: 30px;
+left: 536px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+.ed{
+	position: absolute;
+width: 124px;
+height: 30px;
+left: 652px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+.ed2{
+	position: absolute;
+width: 124px;
+height: 30px;
+left: 652px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFA800;
+}
+
+.ex{
+position: absolute;
+width: 138px;
+height: 30px;
+left: 816px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+.sk{
+position: absolute;
+width: 66px;
+height: 30px;
+left: 994px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+.co{
+position: absolute;
+width: 99px;
+height: 30px;
+left: 1101px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+.h2{
+position: absolute;
+width: 168px;
+height: 75px;
+left: 82px;
+top: 39px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFA800;
+
+}
+
+.h4{
+	position: absolute;
+width: 96px;
+height: 36px;
+left: 154px;
+top: 223px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFA800;
+}
+
+.h5{
+	position: absolute;
+width: 965px;
+height: 432px;
+left: 146px;
+top: 217px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+.h6{
+	position: absolute;
+width: 965px;
+height: 432px;
+left: 146px;
+top: 217px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+.p{
+	position: absolute;
+width: 832px;
+height: 360px;
+left: 155px;
+top: 288px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+
+.h4a{
+	position: absolute;
+width: 96px;
+height: 36px;
+left: 154px;
+top: 223px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFA800;
+}
+
+.h5a{
+	position: absolute;
+width: 965px;
+height: 432px;
+left: 146px;
+top: 252px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+.h6a{
+	position: absolute;
+width: 965px;
+height: 432px;
+left: 146px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+.pa{
+	position: absolute;
+width: 832px;
+height: 360px;
+left: 155px;
+top: 320px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+
+.h4b{
+	position: absolute;
+width: 96px;
+height: 36px;
+left: 154px;
+top: 423px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFA800;
+}
+
+.h5b{
+	position: absolute;
+width: 965px;
+height: 432px;
+left: 146px;
+top: 455px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+.h6b{
+	position: absolute;
+width: 965px;
+height: 432px;
+left: 146px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+.pb{
+	position: absolute;
+width: 832px;
+height: 360px;
+left: 155px;
+top: 525px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}
+.macbook-air-1-VXP {
+  width: 100%;
+  object-fit: cover;
+  vertical-align: top;
+}
+
